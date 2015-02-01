@@ -1,0 +1,12 @@
+# Site settings
+title: Dave and Steph's Wedding
+email: weddingdaveandsteph@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Information about the forthcoming wedding of David Wickes and Stephanie Hay.
+  Other Dave and Steph's should look elsewhere.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://weddingdaveandsteph.info" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
