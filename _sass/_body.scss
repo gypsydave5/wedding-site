@@ -1,0 +1,23 @@
+.highlight-center {
+    font-size: 32px;
+    text-align: center;
+    padding: 20px 0px;
+}
+
+.highlight-center a:hover {
+    text-decoration: none;
+}
+
+.highlight-center a:visited {
+    color: $grey-color-dark;
+    text-decoration: none;
+}
+
+.center {
+    text-align: center;
+}
+
+iframe {
+    width: 100%;
+    margin: 20px 0px;
+}
