@@ -10,9 +10,9 @@ Stephanie Hay and David Wickes are getting married
 
 at
 
-<address class="highlight-center">
+<p class="highlight-center">
 <a href="http://asylumlondon.org/">The Asylum, Peckham</a>
-</address>
+</p>
 
 This website has some, if not all of the details.
 </section>

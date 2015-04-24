@@ -17,6 +17,16 @@
     text-align: center;
 }
 
+address {
+    border: 1px dashed #999;
+    padding: 20px;
+    margin: 20px;
+    font-family: courier;
+    text-decoration: none;
+    font-style: normal;
+    display: inline-block;
+}
+
 iframe {
     width: 100%;
     margin: 20px 0px;
