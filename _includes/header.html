@@ -14,16 +14,16 @@
       </a>
 
       <div class="trigger">
-          <!--<a class="page-link" href="/the_day/">The Day</a>-->
-          <!--<a class="page-link" href="/location/">Location</a>-->
-          <!--<a class="page-link" href="/accomodation/">Accomodation</a>-->
-          <!--<a class="page-link" href="/gifts/">Gifts</a>-->
+          <a class="page-link" href="/the_day/">The Day</a>
+          <a class="page-link" href="/location/">Location</a>
+          <a class="page-link" href="/accomodation/">Accomodation</a>
+          <a class="page-link" href="/gifts/">Gifts</a>
 
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <!--{% for page in site.pages %}-->
+          <!--{% if page.title %}-->
+          <!--<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>-->
+          <!--{% endif %}-->
+        <!--{% endfor %}-->
       </div>
     </nav>
 
