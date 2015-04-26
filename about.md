@@ -13,7 +13,5 @@ at
 <p class="highlight-center">
 <a href="http://asylumlondon.org/">The Asylum, Peckham</a>
 </p>
-
-This website has some, if not all of the details.
 </section>
 
