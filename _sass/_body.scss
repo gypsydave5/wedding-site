@@ -34,6 +34,39 @@ iframe {
     margin: 20px 0px;
 }
 
+// Menu
+
+.menu {
+    width: 500px;
+    margin: auto;
+}
+
+.menu--title {
+    text-align: center;
+    margin: 0;
+    padding: 0.9rem 0;
+}
+
+.menu--item {
+    text-align: center;
+    font-style: italic;
+    font-size: 1.1rem;
+    margin: 0;
+    padding: 0.5rem 0;
+}
+
+.menu--or {
+    text-align: center;
+    font-size: 0.9rem;
+    margin: 0;
+    padding: 0.7rem 0;
+}
+
+.menu-footer {
+    text-align: center;
+    margin: 2em 0;
+}
+
 a.typeform-share.button {
     text-align: center;
     float: center;
